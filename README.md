@@ -1,1 +1,2 @@
-# MyluckyApp
+# MyLuckyApp
+A toy website project.
